@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  font-size: 14px;
+}
+
+.container {
+  width: 545px;
+  height: 445px;
+  padding-right: 70px;
+  padding-left: 40px;
+  padding-top: 25px;
+}
+
+.title {
+  line-height: 5px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.forma-name {
+  text-align: end;
+  text-decoration: underline;
+}
+
+.forma-established {
+  text-align: end;
+}
+
+h1 {
+  text-align: center;
+  font-size: 16px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 16px;
+}
+
+h3 {
+  margin: 0;
+  font-size: 14px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer h3{
+  text-align: end;
+}
